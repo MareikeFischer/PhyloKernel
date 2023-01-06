@@ -2,8 +2,7 @@
 
 This code computes PhyloNet.
 
-Author: Prof. Dr. Mareike Fischer
-Contact: mareike.fischer@uni-greifswald.de
+Author: Prof. Dr. Mareike Fischer (mareike.fischer@uni-greifswald.de)
 
 ## Software Prerequisites:
 
